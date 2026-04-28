@@ -34,7 +34,7 @@ When I'm not immersed in code, you can find me troubleshooting, refining my skil
 
 If you're interested in connecting beyond GitHub, feel free to find me on LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-fraFerrari99-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescoferrari99/). 
 
-And for those curious about my professional background, my CV is just a click away [:newspaper:]([Francesco_Ferrari_CV.pdf](https://github.com/user-attachments/files/27165026/Francesco_Ferrari_CV.pdf)
+And for those curious about my professional background, my CV is just a click away [:newspaper:](https://github.com/user-attachments/files/27165026/Francesco_Ferrari_CV.pdf)
 ) (Just click on the newsparer to download my CV)
 
 Let's drive innovation together, one line of code at a time! 🚀🐍
