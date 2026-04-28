@@ -6,7 +6,7 @@ I'm Francesco Ferrari, a Python enthusiast specializing in Backend development (
 
 I started working using Django and now I'm moving to FastAPI and I've navigated the Python roads with the finesse of a non-racing Ferrari! Obviously this is not real, my finesse is more similar to the Fiat Panda but we italians love this car! 🚗 
 
-Currently, I'm delving into the world of Azure Functions to expand my toolkit further and this is thanks to an opportunity that has come to work where I can mix both Azure Functions and FastAPI world!
+Currently, I'm expanding my world seeing also some NodeJS, TypeScript and trying to wake up those Frontend skills! 
 
 ## :hammer_and_wrench: My Languages and Tools 
 In my first working experience I created a Geoportal using Django as the main technology, but the scope of the project was to give to the international clients that collected geographical data during time, the opportunity of seeing the stats related to their data.
@@ -34,7 +34,8 @@ When I'm not immersed in code, you can find me troubleshooting, refining my skil
 
 If you're interested in connecting beyond GitHub, feel free to find me on LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-fraFerrari99-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescoferrari99/). 
 
-And for those curious about my professional background, my CV is just a click away [:newspaper:](https://github.com/fraFerrari99/fraFerrari99/files/14898290/Francesco_Ferrari_CV.pdf) (Just click on the newsparer to download my CV)
+And for those curious about my professional background, my CV is just a click away [:newspaper:]([Francesco_Ferrari_CV.pdf](https://github.com/user-attachments/files/27165026/Francesco_Ferrari_CV.pdf)
+) (Just click on the newsparer to download my CV)
 
 Let's drive innovation together, one line of code at a time! 🚀🐍
 
